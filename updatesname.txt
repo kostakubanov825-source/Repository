@@ -7,6 +7,7 @@
 -Added cheat menu, can't be used just like that, password required
 -Removed sheep color change to neon gold
 -Fixed bugs
+-Added free camera
 --------------------------2.3 (Now)------------------------------
 -Languages menu moved to settings menu
 -Added menu settings
