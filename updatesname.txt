@@ -2,7 +2,10 @@
 -Дайте ідеї, що додати в гру
 -Give me ideas on what to add to the game
 -----------------------------2.4------------------------------
--Nothing.
+-Added sheep color change (can be disabled in menu settings)
+-More translated words
+-Added cheat menu, can't be used just like that, password required
+-Removed sheep color change to neon gold
 --------------------------2.3 (Now)------------------------------
 -Languages menu moved to settings menu
 -Added menu settings
