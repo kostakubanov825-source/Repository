@@ -10,7 +10,7 @@
 -Added free camera
 -Added screenshot function (saved in gallery and in file)
 -Added check for old version
---------------------------2.3 (Now)------------------------------
+-----------------------------2.3------------------------------
 -Languages menu moved to settings menu
 -Added menu settings
 -Fixed bugs
