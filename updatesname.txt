@@ -8,6 +8,8 @@
 -Removed sheep color change to neon gold
 -Fixed bugs
 -Added free camera
+-Added screenshot function (saved in gallery and in file)
+-Added check for old version
 --------------------------2.3 (Now)------------------------------
 -Languages menu moved to settings menu
 -Added menu settings
