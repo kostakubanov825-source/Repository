@@ -2,6 +2,12 @@
 -Дайте ідеї, що додати в гру
 -Give me ideas on what to add to the game
 -----------------------------2.5------------------------------
+-Added skins for sheep
+-New GUI
+-Changed game logic
+-Game supports import 3d models in .glb format
+-Mamy functions is not maked, but will be on next update
+-Added scripting on map editor, NovaLang
 -Added map editor(more functions not maked full)
 -----------------------------2.4------------------------------
 -Added sheep color change (can be disabled in menu settings)
