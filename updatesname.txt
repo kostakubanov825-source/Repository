@@ -1,6 +1,8 @@
 --------------------------Updates------------------------------
 -Дайте ідеї, що додати в гру
 -Give me ideas on what to add to the game
+-----------------------------2.5------------------------------
+-Added map editor(more functions not maked full)
 -----------------------------2.4------------------------------
 -Added sheep color change (can be disabled in menu settings)
 -More translated words
