@@ -5,10 +5,14 @@
 -Added skins for sheep
 -New GUI
 -Changed game logic
--Game supports import 3d models in .glb format
+-New race
+-Game optimized
+-Fixed bugs
 -Mamy functions is not maked, but will be on next update
--Added scripting on map editor, NovaLang
--Added map editor(more functions not maked full)
+-MapEditor will soon
+-New normal map - Greenland
+-Removed race forest map
+-Custom color is bugging
 -----------------------------2.4------------------------------
 -Added sheep color change (can be disabled in menu settings)
 -More translated words
