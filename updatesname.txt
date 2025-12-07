@@ -4,6 +4,7 @@
 -----------------------------2.5------------------------------
 -Added skins for sheep
 -New GUI
+-Added online test
 -Changed game logic
 -New race
 -Game optimized
